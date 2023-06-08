@@ -1,5 +1,5 @@
 
-# Blogs Website Wordpress
+# Filter Blog posts by multiple categories and tags in Wordpress
 
 ### Homepage View
 ![](https://raw.githubusercontent.com/boffincoders/blogs-website/main/homepage.png) 
